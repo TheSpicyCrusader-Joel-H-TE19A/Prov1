@@ -1,0 +1,13 @@
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\bin\Debug\netcoreapp3.1\Prov.exe
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\bin\Debug\netcoreapp3.1\Prov.deps.json
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.json
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.dev.json
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\bin\Debug\netcoreapp3.1\Prov.dll
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\bin\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\obj\Debug\netcoreapp3.1\Prov.csprojAssemblyReference.cache
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfoInputs.cache
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfo.cs
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\obj\Debug\netcoreapp3.1\Prov.csproj.CoreCompileInputs.cache
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\obj\Debug\netcoreapp3.1\Prov.dll
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\obj\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\joel.herfindal\Documents\Programering\Prov1\Prov\obj\Debug\netcoreapp3.1\Prov.genruntimeconfig.cache
